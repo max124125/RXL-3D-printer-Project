@@ -1,4 +1,4 @@
-RXL (Rigid XL 3D printer)
+**RXL (Rigid XL) 3D printer Project**
 
 What is the project:
 To build a large format (350mm x 350mm x 450mm), enclosed, high speed, easily modable, 3D printer.
@@ -9,7 +9,7 @@ With these printers I find that printing any large scale parts is impossible, ma
 Additionally, the ender 3 build volume is good, but even this has been too small on several occasions (and unenclosed, on the rare case I needed to print ABS).
 
 Design Goals:
- - Build Volume of 350mm x 350mm x 450mm, with room to move hotend over nozzle cleaner + purge shoot (similar to Bambu labs) and potentially other future features (too changer area?).
+ - Build Volume of 350mm x 350mm x 450mm, with room to move hotend over nozzle cleaner + purge shoot (similar to Bambu labs) and potentially other future features (tool changer area?).
  - Input shaper results of around 50K or above for both axes.
  - Travel speeds of over 700mm/s and general printing accels (at least) double that of the X1C(20k travel, 10k outer wall, etc.)
  - ABSOLUTE RELIABILITY (perfect first layers, minimal print artificats, rare failed prints, etc. (at least on par or better than the X1C).
@@ -42,7 +42,7 @@ If all 4 belts and motors are not tensioned and synced perfectly at all times, p
 to the 4 belt tensioning issue is not confirmed, but I believe highly likely, see 247 Printing video on V-core 4 speed testing) 
 Additionally, this system may be more of a benefit for even larger scale printers (>500mm) where the x axis gantry signifigantly outweighs the print head, (wich is not the case for my design, Hotend: 380g? X-axis 350g?)  
 
-AWD Corexy (VZbot): This system has been much more thouroughly tested due to it being a common upgrade in the Voron, VzBot, and RatRig printer family's. 
+AWD Corexy (eg. VZbot): This system has been much more thouroughly tested due to it being a common upgrade in the Voron, VzBot, and RatRig printer family's. 
 I also was very much inspiried by the Monolith gantry for this system, as it had a lot of the features I was looking at: the simplified motion system to use very minimal idlers, a majorly shortened belt length, double sheer bearings, 
 and it reduces moments as much as arguably possible in a corexy system.
 Additionally, I had seen other AWD systems (mainly the VzBot 330) hit ludicrous speeds, accels and input shaper graphs, even with its larger bed sizes. 
