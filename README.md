@@ -21,6 +21,7 @@ Inspirations for this project:
 -RatRig V-Core 4
 
 Frame Justifications:
+
 https://us.misumi-ec.com/pdf/fa/2010/p2433.pdf
 ..... (to do)
 
@@ -52,7 +53,7 @@ Polar (Polar-3D):
 No
 
 Scara/Markforge/etc.
-I Don't believe these systems are at all built for speed.
+I don't believe these systems are at all built for speed.
 Additionally, they are niche enough that I wouldn't have the community support for help and reasearch that other systems do.
 
 
