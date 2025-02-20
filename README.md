@@ -30,7 +30,7 @@ Motion system choice justification:
 Bed slinger (eg. Cr-10 [Max]): With bed slingers, speed becomes a major issue as their build volume increases. 
 With a 350mm bed (especially a 3/8" MIC6 one or glass) the motors will have to accelerate far more weight around compared to any of the other motion systems mentioned here. 
 Additionally, with taller parts that have thin walls (wich I will print quite a bit), Z-wobble becomes a major issues, and speeds will have to be signifgantly reduced at higher z heights.
-Lastly, this design is also the least efficent in terms of space taken up, and will become majorly impractile to enclose, compared to other designs.
+Lastly, this design is also the least efficient in terms of space taken up, and will become majorly impractile to enclose, compared to other designs.
 
 Cross Gantry (eg. Annex K3): This system is very rigid and has alot of good features, however, I believe it flourishes at smaller build volumes. With a 350mm bed the 4 motors will have 
 to move 2 400mm long linear rails along with there 450mm suppports as opposed to the 1 linear rail and support needed in a corexy system. This could be counteracted by using the 8 motor setup, but thats very expensive, and I don't want to. 
