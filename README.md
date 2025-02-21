@@ -1,5 +1,8 @@
 **RXL (Rigid XL) 3D printer Project**
 
+<img width="293" alt="FrameGit" src="https://github.com/user-attachments/assets/178f2a5c-295e-4b4d-b4dd-c3d235332700" />
+
+
 What is the project:
 To build a large format (350mm x 350mm x 450mm), enclosed, high speed, easily modable, 3D printer.
 
