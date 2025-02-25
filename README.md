@@ -4,7 +4,7 @@
 
 
 What is the project:
-To build a large format (350mm x 350mm x 450mm), enclosed, high speed, easily modable, 3D printer.
+To build a large format (350mm x 350mm x 400mm), enclosed, high speed, easily modable, 3D printer.
 
 Justifications:
 My current printers are a modified Ender 3 and a Voron 0.1 (Tiny-M Configuration).
