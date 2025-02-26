@@ -17,6 +17,10 @@ Design Goals:
  - Travel speeds of over 700mm/s and general printing accels (at least) double that of the X1C(20k travel, 10k outer wall, etc.)
  - ABSOLUTE RELIABILITY (perfect first layers, minimal print artificats, rare failed prints, etc. (at least on par or better than the X1C).
 
+Future features: 
+ - Built-in side panel AMS
+ - Tool changer
+
 Inspirations for this project:
 -VzBot
 -Voron Trident
@@ -58,5 +62,7 @@ No
 Scara/Markforge/etc.
 I don't believe these systems are at all built for speed.
 Additionally, they are niche enough that I wouldn't have the community support for help and reasearch that other systems do.
+
+
 
 
