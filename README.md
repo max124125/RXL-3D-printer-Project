@@ -1,7 +1,8 @@
 **RXL (Rigid XL) 3D printer Project**
 
 <img width="293" alt="FrameGit" src="https://github.com/user-attachments/assets/178f2a5c-295e-4b4d-b4dd-c3d235332700" />
-![image_50364417](https://github.com/user-attachments/assets/12f25f2b-1c08-4ae0-98dd-39074d3dd0b6)
+
+![image_50364417](https://github.com/user-attachments/assets/f52541ae-7635-4021-9f59-09265b1d85cd)
 
 
 What is the project:
