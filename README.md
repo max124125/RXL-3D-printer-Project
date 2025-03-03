@@ -3,7 +3,7 @@
 <img width="293" alt="FrameGit" src="https://github.com/user-attachments/assets/178f2a5c-295e-4b4d-b4dd-c3d235332700" />
 
 ![image_50364417](https://github.com/user-attachments/assets/f52541ae-7635-4021-9f59-09265b1d85cd)
-<img src="https://github.com/favicon.ico](https://github.com/user-attachments/assets/f52541ae-7635-4021-9f59-09265b1d85cd" width="12">
+<img src="https://github.com/user-attachments/assets/f52541ae-7635-4021-9f59-09265b1d85cd" width="12">
 
 What is the project:
 To build a large format (350mm x 350mm x 410mm), enclosed, high speed, easily modable, 3D printer.
