@@ -1,6 +1,7 @@
 **RXL (Rigid XL) 3D printer Project**
 
 <img width="293" alt="FrameGit" src="https://github.com/user-attachments/assets/178f2a5c-295e-4b4d-b4dd-c3d235332700" />
+![image_50364417](https://github.com/user-attachments/assets/12f25f2b-1c08-4ae0-98dd-39074d3dd0b6)
 
 
 What is the project:
@@ -63,6 +64,11 @@ Scara/Markforge/etc.
 I don't believe these systems are at all built for speed.
 Additionally, they are niche enough that I wouldn't have the community support for help and reasearch that other systems do.
 
+Motion system update:
+![image_50408449](https://github.com/user-attachments/assets/5135676a-2c12-4d0d-8151-9f7805f78d8f)
 
+
+Electronics system update:
+![image_50370049](https://github.com/user-attachments/assets/f4fbd3fc-0c91-4f77-9443-1db3cf87c521)
 
 
