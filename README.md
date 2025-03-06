@@ -1,14 +1,8 @@
 **RXL (Rigid XL) 3D printer Project**
 
-<img width="303" alt="RXLcad2" src="https://github.com/user-attachments/assets/c77d1dac-81b4-47f2-8889-d7eb92524d2f" />
-![RXLfc](https://github.com/user-attachments/assets/c92da51b-34ae-42bd-a006-3180189092b3)
-![RXLiso](https://github.com/user-attachments/assets/3a38450b-f96f-4901-88ea-4629bc9d7935)
-![RXLfo](https://github.com/user-attachments/assets/17fd242b-e8be-4ac5-91a2-24d65d2e011b)
-
-
 <p float="left">
   <img src="https://github.com/user-attachments/assets/c77d1dac-81b4-47f2-8889-d7eb92524d2f" width="250" />
-  <img src="https://github.com/user-attachments/assets/3a38450b-f96f-4901-88ea-4629bc9d7935" width="250" /> 
+  <img src="https://github.com/user-attachments/assets/3a38450b-f96f-4901-88ea-4629bc9d7935" width="350" /> 
 </p>
 
 
@@ -73,10 +67,9 @@ I don't believe these systems are at all built for speed.
 Additionally, they are niche enough that I wouldn't have the community support for help and reasearch that other systems do.
 
 Motion system update:
-![image_50408449](https://github.com/user-attachments/assets/5135676a-2c12-4d0d-8151-9f7805f78d8f)
+ <img src="https://github.com/user-attachments/assets/c92da51b-34ae-42bd-a006-3180189092b3" width="500" />
+  <img src="https://github.com/user-attachments/assets/17fd242b-e8be-4ac5-91a2-24d65d2e011b" width="500" />
 
 
 Electronics system update:
-![image_50370049](https://github.com/user-attachments/assets/f4fbd3fc-0c91-4f77-9443-1db3cf87c521)
-
-
+<img src="https://github.com/user-attachments/assets/f4fbd3fc-0c91-4f77-9443-1db3cf87c521" width="500" />
