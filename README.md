@@ -43,7 +43,7 @@ Additionally, with taller parts that have thin walls (wich I will print quite a 
 Lastly, this design is also the least efficient in terms of space taken up, and will become majorly impractile to enclose, compared to other designs.
 
 Cross Gantry (eg. Annex K3): This system is very rigid and has alot of good features, however, I believe it flourishes at smaller build volumes. With a 350mm bed the 4 motors will have 
-to move 2 400mm long linear rails along with there 450mm suppports as opposed to the 1 linear rail and support needed in a corexy system. This could be counteracted by using the 8 motor setup, but thats very expensive, and I don't want to. 
+to move two 400mm long linear rails along with there 450mm suppports as opposed to the 1 linear rail and support needed in a corexy system. This could be counteracted by using the 8 motor setup, but this can get very expensive, and I don't want to. 
 Additionally, this system has one major feature I dislike, wich is the limited accessibility to the print head and print bed. As opposed to other designs (like the Voron 0) this design sourrounds the print head and bed (at z=0) 
 making viewing of the print difficult, along with making hotend or nozzle changes far more annoying. And having worked on printers that have this limited accesibility, this was a major point against for this motion system.
 
