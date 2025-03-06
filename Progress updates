@@ -41,14 +41,45 @@ Additional Frame assembly with all four new 450mm linear rails being installed
 Z axis design started
 
 
+Feb 27:
+Mounting of firstgantry parts and more CAD design.
+Frame rebuild with 2020 corner braces and +100 Tnuts loaded into extrusions
+Gantry belt tensioners printed V1 and V2
+Electronics mounted to frame using old parts
 
+March 2:
+Belt tensioners V3 printed and Mounted
+Remaining gantry parts mounted
+Belts threaded and tensioned
+All endstops added
+
+March 3:
+Z axis design and CAD work
 
 March 4:
 Front Linear Z axis brackets mounted.
 Z axis motors mounted
 Z axis plate mounts printed.
 
+March 5:
+Plate mounted to Z axis.
+Hotend mounted.
+Wiring partially done.
+Rear z axis mount V1 printed.
 
+
+
+PARTS NEEDED TILL PRINTING POSSIBLE:
+-Rear Z axis rail and belt mount.
+-Z axis motor wiring. 
+-Extruder mounting
+-Wire Sling
+-Octopus board cooling
+
+IMMEDIATE PARTS NEEDED AFTER:
+-Direct Drive Extruder
+-New wire sling
+-Top mounted spool holder
 
 
 
