@@ -1,9 +1,14 @@
 **RXL (Rigid XL) 3D printer Project**
 
+<img width="303" alt="RXLcad2" src="https://github.com/user-attachments/assets/c77d1dac-81b4-47f2-8889-d7eb92524d2f" />
+![RXLfc](https://github.com/user-attachments/assets/c92da51b-34ae-42bd-a006-3180189092b3)
+![RXLiso](https://github.com/user-attachments/assets/3a38450b-f96f-4901-88ea-4629bc9d7935)
+![RXLfo](https://github.com/user-attachments/assets/17fd242b-e8be-4ac5-91a2-24d65d2e011b)
+
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/178f2a5c-295e-4b4d-b4dd-c3d235332700" width="250" />
-  <img src="https://github.com/user-attachments/assets/2d6d159c-1b77-4237-a294-7ca8afff6ad2" width="250" /> 
+  <img src="https://github.com/user-attachments/assets/c77d1dac-81b4-47f2-8889-d7eb92524d2f" width="250" />
+  <img src="https://github.com/user-attachments/assets/3a38450b-f96f-4901-88ea-4629bc9d7935" width="250" /> 
 </p>
 
 
