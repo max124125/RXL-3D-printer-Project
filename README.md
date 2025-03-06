@@ -67,8 +67,7 @@ I don't believe these systems are at all built for speed.
 Additionally, they are niche enough that I wouldn't have the community support for help and reasearch that other systems do.
 
 Motion system update:
- <img src="https://github.com/user-attachments/assets/c92da51b-34ae-42bd-a006-3180189092b3" width="500" />
-  <img src="https://github.com/user-attachments/assets/17fd242b-e8be-4ac5-91a2-24d65d2e011b" width="500" />
+<img src="https://github.com/user-attachments/assets/17fd242b-e8be-4ac5-91a2-24d65d2e011b" width="500" />
 
 
 Electronics system update:
