@@ -82,5 +82,5 @@ Other print settings (such as minimum layer time) will also be changed and this 
 |    Trial     | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |    Sucess   |    Notes    |
 |    :---:     |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |  
 |   Ender 3    |        500       |        50        |      default       |     1h24m     |     Yes     |    Good  |
-|      1       |       1,500      |        175       |        0.5         |     51m       |     Yes     |  Slight layer shifting during diagonal travel moves, slight ringing but otherwise a good first print|
+|      1       |       1,500      |        175       |        0.5         |     59m42s    |     Yes     |  Slight layer shifting during diagonal travel moves, slight ringing but otherwise a good first print|
 |      2       |       3,000      |        175       |        0.9         |     ___       |     ___     |
