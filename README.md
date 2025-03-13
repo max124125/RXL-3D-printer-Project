@@ -72,3 +72,10 @@ Motion system update:
 
 Electronics system update:
 <img src="https://github.com/user-attachments/assets/f4fbd3fc-0c91-4f77-9443-1db3cf87c521" width="500" />
+
+
+|    Trial     | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |    Sucess   |
+|    :---:     |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |  
+|   Ender 3    |        500       |        50        |      default       |     1h24m     |     Yes     |
+|      1       |       1,500      |        150       |        0.5         |     51m       |     Yes     |
+|      2       |       3,000      |        175       |        0.9         |     ___       |     ___     |
