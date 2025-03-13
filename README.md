@@ -75,7 +75,7 @@ Electronics system update:
 
 
 Speed trials: 
-A large goal of this printer is to replace my ender 3. As such it is being used for the baseline speed test as the RXL is tested 
+A large goal of this printer is to replace my ender 3. As such it is being used for the baseline speed test as the RXL is tested. 
 The desired speed is to be sub 20mins for the benchy at good quality.
 Other print settings (such as minimum layer time) will also be changed and this will be reflected in the quality rating and benchy time. 
 
