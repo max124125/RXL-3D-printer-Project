@@ -87,7 +87,7 @@ Printing prepare time will not be included. However, It is such for each printer
 
 |    Trial     | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |    Sucess   |    Notes    |
 |    :---:     |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |  
-|   Ender 3    |        500       |        50        |      default       |     2h2m     |     Yes     |    Good  |
+|   Ender-3    |        500       |        50        |      default       |     2h2m     |     Yes     |    Good  |
 |      1       |       1,500      |        175       |        0.5         |     59m42s    |     Yes     |  Slight layer shifting during diagonal travel moves, slight ringing but otherwise a good first print|
 |      2       |       3,000      |        175       |        0.9         |     49m39s       |     ___     |
-|      3       |      10,000      |        500       |       N/A         |      44m26s       |     Yes     | Default config, good quality
+|     X1C       |      10,000      |        500       |       N/A         |      44m26s       |     Yes     | Default config, good quality
