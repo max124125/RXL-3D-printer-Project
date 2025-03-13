@@ -81,9 +81,9 @@ Other print settings (such as minimum layer time) will also be changed and this 
 
 Additional Note:
 Printing prepare time will not be included. However, It is such for each printer:
-Ender 3: 20s
-X1C: 5m46s
-RXL: 2m30s
+-Ender 3: 20s
+-X1C: 5m46s
+-RXL: 2m30s
 
 |    Trial     | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |    Sucess   |    Notes    |
 |    :---:     |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |  
