@@ -79,8 +79,15 @@ A large goal of this printer is to replace my ender 3. As such it is being used 
 The desired speed is to be sub 20mins for the benchy at good quality.
 Other print settings (such as minimum layer time) will also be changed and this will be reflected in the quality rating and benchy time. 
 
+Additional Note:
+Printing prepare time will not be included. However, It is such for each printer:
+Ender 3: 20s
+X1C: 5m46s
+RXL: 2m30s
+
 |    Trial     | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |    Sucess   |    Notes    |
 |    :---:     |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |  
-|   Ender 3    |        500       |        50        |      default       |     1h24m     |     Yes     |    Good  |
+|   Ender 3    |        500       |        50        |      default       |     2h2m     |     Yes     |    Good  |
 |      1       |       1,500      |        175       |        0.5         |     59m42s    |     Yes     |  Slight layer shifting during diagonal travel moves, slight ringing but otherwise a good first print|
-|      2       |       3,000      |        175       |        0.9         |     ___       |     ___     |
+|      2       |       3,000      |        175       |        0.9         |     49m39s       |     ___     |
+|      3       |      10,000      |        500       |       N/A         |      44m26s       |     Yes     | Default config, good quality
