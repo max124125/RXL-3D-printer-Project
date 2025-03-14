@@ -15,7 +15,7 @@ With these printers I find that printing any large scale parts is impossible, ma
 Additionally, the ender 3 build volume is good, but even this has been too small on several occasions (and unenclosed, on the rare case I needed to print ABS).
 
 Design Goals:
- - Build Volume of 350mm x 350mm x 450mm, with room to move hotend over nozzle cleaner + purge shoot (similar to Bambu labs) and potentially other future features (tool changer area?).
+ - Build Volume of 350mm x 350mm x 410mm, with room to move hotend over nozzle cleaner + purge shoot (similar to Bambu labs) and potentially other future features (tool changer area?).
  - Input shaper results of around 50K or above for both axes.
  - Travel speeds of over 700mm/s and general printing accels (at least) double that of the X1C(20k travel, 10k outer wall, etc.)
  - ABSOLUTE RELIABILITY (perfect first layers, minimal print artificats, rare failed prints, etc. (at least on par or better than the X1C).
