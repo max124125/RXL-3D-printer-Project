@@ -79,16 +79,19 @@ A large goal of this printer is to replace my ender 3. As such it is being used 
 The desired speed is to be sub 20mins for the benchy at good quality.
 Other print settings (such as minimum layer time) will also be changed and this will be reflected in the quality rating and benchy time. 
 
-Additional Note:
-Printer heating and prepare time will not be included. However, It is such for each printer when printing PETG Hf from bambu labs:  
+Additional Note:  
+Filament: Bambu labs PETG HF
+Layer height: 0.2mm
+
+Printer heating and prepare time also will not be included. However, It is such for each printer when printing PETG Hf from bambu labs:  
 Ender 3: [Heat time 3:50] [Prep time 20s].  
 X1C: [Heat time 1:30] [Prep time 5m46s].  
 RXL: [Heat time: 3:10] [Prep time 2m30s].  
 
-|     Printer & Trial      | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |    Success   |    Notes    |
-|     :---:      |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |  
-|    Ender-3 [NA]     |        500       |        50        |        0.6         |     2h2m      |     Yes     |    Good  |
-|    RXL [1]        |       1,500      |        175       |        0.5         |     59m42s    |     Yes     |  Slight layer shifting during diagonal travel moves, slight ringing, bad stringing, but otherwise an ok first print|
-|     RXL [2]       |       3,000      |        155       |       0.8         |     52m32s    |     Yes     | Ok print, slight ringing, smoothing factor far too high, small blots on surface of print, stringing
-|     RXL [3]       |       5,000      |        155       |       0.8         |     47m8s     |     ___     | 
-|     X1C [NA]      |      10,000      |        500       |       1.2         |     44m26s    |     Yes     | Default config, good quality
+|  Printer & Trial   | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |    Success   |    Rating    |     Notes    |
+|       :---:        |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |     :---:    |  
+|    Ender-3 [NA]    |        500       |        50        |        0.6         |     2h2m      |     Yes     |    7.5/10  |    Good  |
+|     RXL [1]        |       1,500      |        175       |        0.5         |     59m42s    |     Yes     |   3.5/10   |  Slight layer shifting during diagonal travel moves, slight ringing, bad stringing, but otherwise an ok first print|
+|      RXL [2]       |       3,000      |        155       |       0.8         |     52m32s    |     Yes     |    4.0/10  | Ok print, slight ringing, smoothing factor far too high, small blots on surface of print, stringing
+|      RXL [3]       |       5,000      |        155       |       0.8         |     47m8s     |     ___     |    __/10  |
+|      X1C [NA]      |      10,000      |        500       |       1.2         |     44m26s    |     Yes     |   8.5/10  | Default config, good quality
