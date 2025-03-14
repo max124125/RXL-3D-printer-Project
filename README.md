@@ -80,10 +80,10 @@ The desired speed is to be sub 20mins for the benchy at good quality.
 Other print settings (such as minimum layer time) will also be changed and this will be reflected in the quality rating and benchy time. 
 
 Additional Note:
-Printer heating and prepare time will not be included. However, It is such for each printer:
--Ender 3: [Heat time 3:50] [Prep time 20s].  
--X1C: [Heat time 1:30] [Prep time 5m46s].  
--RXL: [Heat time: 3:10] [Prep time 2m30s].  
+Printer heating and prepare time will not be included. However, It is such for each printer:  
+Ender 3: [Heat time 3:50] [Prep time 20s].  
+X1C: [Heat time 1:30] [Prep time 5m46s].  
+RXL: [Heat time: 3:10] [Prep time 2m30s].  
 
 |    Trial     | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |    Success   |    Notes    |
 |    :---:     |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |  
