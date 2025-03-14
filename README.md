@@ -66,11 +66,11 @@ Scara/Markforge/etc.
 I don't believe these systems are at all built for speed.
 Additionally, they are niche enough that I wouldn't have the community support for help and reasearch that other systems do.
 
-Motion system update:
+Motion system update.
 <img src="https://github.com/user-attachments/assets/17fd242b-e8be-4ac5-91a2-24d65d2e011b" width="500" />
 
 
-Electronics system update:
+Electronics system update.
 <img src="https://github.com/user-attachments/assets/f4fbd3fc-0c91-4f77-9443-1db3cf87c521" width="500" />
 
 
@@ -80,10 +80,10 @@ The desired speed is to be sub 20mins for the benchy at good quality.
 Other print settings (such as minimum layer time) will also be changed and this will be reflected in the quality rating and benchy time. 
 
 Additional Note:
-Printing prepare time will not be included. However, It is such for each printer:
--Ender 3: 20s
--X1C: 5m46s
--RXL: 2m30s
+Printer heating and prepare time will not be included. However, It is such for each printer:
+-Ender 3: [Heat time 3:50] [Prep time 20s].
+-X1C: [Heat time 1:30] [Prep time 5m46s].
+-RXL: [Heat time: 3:10] [Prep time 2m30s].
 
 |    Trial     | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |    Success   |    Notes    |
 |    :---:     |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |  
