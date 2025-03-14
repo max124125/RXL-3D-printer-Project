@@ -23,6 +23,7 @@ Design Goals:
 Future features: 
  - Built-in side panel AMS
  - Tool changer
+ - Enclosure
 
 Inspirations for this project:
 -VzBot
@@ -31,9 +32,13 @@ Inspirations for this project:
 -RatRig V-Core 4
 
 Frame Justifications:
+By using 2040 braces (in the horizontal configuration) the misumi data shows that this is ~7x more rigid than a single 2020 yet only adds an additional 40mm in x and y for the frame. Additionally, 4040 extrusions in the corners of the printer are ~12x more rigid than a single 2020, and when paired with the horizontal 2040's adds no additional size to the printer.
 
+Furthurmore, people had expressed issues in input shaper with taller voron configurations, and as I wanted this printer to reach between 400-450mm, 4040 corners and 2040 cross braces were decided upon to stay on the conservative side.
+
+Misumi data:
 https://us.misumi-ec.com/pdf/fa/2010/p2433.pdf
-..... (to do)
+
 
 Motion system choice justification:
 
