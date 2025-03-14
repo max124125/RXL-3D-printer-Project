@@ -85,10 +85,10 @@ Printing prepare time will not be included. However, It is such for each printer
 -X1C: 5m46s
 -RXL: 2m30s
 
-|    Trial     | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |    Sucess   |    Notes    |
+|    Trial     | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |    Success   |    Notes    |
 |    :---:     |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |  
-|   Ender-3    |        500       |        50        |      default       |     2h2m     |     Yes     |    Good  |
+|   Ender-3    |        500       |        50        |      default       |     2h2m      |     Yes     |    Good  |
 |      1       |       1,500      |        175       |        0.5         |     59m42s    |     Yes     |  Slight layer shifting during diagonal travel moves, slight ringing, bad stringing, but otherwise an ok first print|
-|      2       |       3,000      |         155       |        0.8         |     52m32s       |     Yes     | Ok print, slight ringing, smoothing factor far too high, small blots on surface of print, stringing
-|      3       |       5,000      |         155       |        0.8         |     47m8s       |     ___     | 
-|     X1C       |      10,000      |        500       |       N/A         |      44m26s       |     Yes     | Default config, good quality
+|      2       |       3,000      |         155       |        0.8        |     52m32s    |     Yes     | Ok print, slight ringing, smoothing factor far too high, small blots on surface of print, stringing
+|      3       |       5,000      |         155       |        0.8        |     47m8s     |     ___     | 
+|     X1C       |      10,000      |        500       |       N/A         |     44m26s    |     Yes     | Default config, good quality
