@@ -85,7 +85,7 @@ The desired speed is to be sub 20mins for the benchy at good quality.
 Other print settings (such as minimum layer time) will also be changed and this will be reflected in the quality rating and benchy time. 
 
 Additional Note:  
-Filament: Bambu labs PETG HF
+Filament: Bambu labs PETG HF   
 Layer height: 0.2mm
 
 Printer heating and prepare time also will not be included. However, It is such for each printer when printing PETG Hf from bambu labs:  
