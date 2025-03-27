@@ -108,3 +108,4 @@ Current reliability/setup issues:
 -Hotend wires interfere with belts and Klicky probe   
 -Z-axis belt holders are bending and need to be redesigned
 -No screen to help monitor printer
+-Nozzle Cleaner
