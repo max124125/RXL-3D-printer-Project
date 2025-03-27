@@ -102,3 +102,9 @@ RXL: [Heat time: 3:10] [Prep time 2m30s].
 |      RXL [4]       |       3,000      |        185       |       0.8         |     41m30s    |     Yes     |    7.0/10  | Switched to Orbiter, and changed filaments. Stringing and other surface defect massively improved, same with overhangs. Other slicer optomizations
 |      RXL [5]       |       5,000      |        185       |       0.8         |     47m8s     |     ___     |    __/10  |
 |      X1C [NA]      |      10,000      |        500       |       1.2         |     44m26s    |     Yes     |   8.5/10  | Default config, good quality
+
+Current reliability/setup issues:   
+-First layer height (Offset still needs to be furthur tuned)   
+-Hotend wires interfere with belts and Klicky probe   
+-Z-axis belt holders are bending and need to be redesigned
+-No screen to help monitor printer
