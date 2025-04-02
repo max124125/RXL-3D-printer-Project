@@ -1,8 +1,9 @@
 **RXL (Rigid XL) 3D printer Project**
 
+
 <p float="left">
   <img src="https://github.com/user-attachments/assets/c77d1dac-81b4-47f2-8889-d7eb92524d2f" width="350" />
-  <img src="https://github.com/user-attachments/assets/3a38450b-f96f-4901-88ea-4629bc9d7935" width="350" /> 
+  <img src="https://github.com/user-attachments/assets/8f677c62-449a-4d4f-bc55-940c2a2fa10f" width="350" /> 
 </p>
 
 
@@ -71,12 +72,12 @@ Scara/Markforge/etc.
 I don't believe these systems are at all built for speed.
 Additionally, they are niche enough that I wouldn't have the community support for help and reasearch that other systems do.
 
-Motion system update.
-<img src="https://github.com/user-attachments/assets/17fd242b-e8be-4ac5-91a2-24d65d2e011b" width="500" />
+Motion system update.   
+<img src="https://github.com/user-attachments/assets/5099330e-b0f2-433d-8a4b-6bfe8298d6b4" width="500" />
 
+Electronics system update.   
+<img src="https://github.com/user-attachments/assets/15b6d163-4cd9-41d7-9158-ccc922d62c64" width="400" />
 
-Electronics system update.
-<img src="https://github.com/user-attachments/assets/f4fbd3fc-0c91-4f77-9443-1db3cf87c521" width="500" />
 
 
 Speed trials: 
@@ -99,9 +100,10 @@ RXL: [Heat time: 3:10] [Prep time 2m30s].
 |     RXL [1]        |       1,500      |        175       |        0.5         |     59m42s    |     0.2     |   3.5/10   |  Slight layer shifting during diagonal travel moves, slight ringing, bad stringing, but otherwise an ok first ever print|
 |      RXL [2]       |       3,000      |        155       |       0.8         |     52m32s    |     0.2     |    4.0/10  | Ok print, slight ringing, smoothing factor far too high, small blots on surface of print, stringing
 |      RXL [3]       |       3,000      |        155       |       0.8         |     52m32s    |     0.2     |    5.0/10  | Decent print, bad stringing, slight surface defects, but much overall improved
-|      RXL [4]       |       3,000      |        185       |       0.8         |     41m30s    |     0.24     |    6.5/10  | Switched to Orbiter, and changed filaments. Stringing and other surface defect massively improved, same with overhangs. Other slicer optomizations
-|      RXL [5]       |       5,000      |        185       |       0.8         |     47m8s     |     ___     |    7.5/10  | Tuning done for: Pressure advance, temperature, accel, etc. Only slight issue is top layer and very mild stringing
-|      X1C [NA]      |      10,000      |        500       |       1.2         |     44m26s    |     0.24     |   8.5/10  | Default config, good quality
+|      RXL [4]       |       4,000      |        185       |       0.8         |     41m30s    |     0.24     |    6.5/10  | Switched to Orbiter, and changed filaments. Stringing and other surface defect massively improved, same with overhangs. Other slicer optomizations
+|      RXL [5]       |       4,000      |        185       |       0.8         |     41m30s     |    0.24     |    7.5/10  | Tuning done for: Pressure advance, temperature, accel, etc. Only slight issue is top layer and very mild stringing
+|      RXL [6]       |       4,000      |        185       |       0.8         |     _____     |     0.24     |    ___/10  | 
+|      X1C [NA]      |      10,000      |        500       |       1.2         |     43m46s    |     0.24     |   8.5/10  | Default config, good quality
 
 Current reliability/setup issues:   
 -First layer height (Offset still needs to be furthur tuned)   
