@@ -93,15 +93,15 @@ Ender 3: [Heat time 3:50] [Prep time 20s].
 X1C: [Heat time 1:30] [Prep time 5m46s].  
 RXL: [Heat time: 3:10] [Prep time 2m30s].  
 
-|  Printer & Trial   | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |    Success   |    Rating    |     Notes    |
+|  Printer & Trial   | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |  Layer height   |    Rating    |     Notes    |
 |       :---:        |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |     :---:    |  
-|    Ender-3 [NA]    |        500       |        50        |        0.6         |     2h2m      |     Yes     |    7.5/10  |    Good  |
-|     RXL [1]        |       1,500      |        175       |        0.5         |     59m42s    |     Yes     |   3.5/10   |  Slight layer shifting during diagonal travel moves, slight ringing, bad stringing, but otherwise an ok first ever print|
-|      RXL [2]       |       3,000      |        155       |       0.8         |     52m32s    |     Yes     |    4.0/10  | Ok print, slight ringing, smoothing factor far too high, small blots on surface of print, stringing
-|      RXL [3]       |       3,000      |        155       |       0.8         |     52m32s    |     Yes     |    5.0/10  | Decent print, bad stringing, slight surface defects, but much overall improved
-|      RXL [4]       |       3,000      |        185       |       0.8         |     41m30s    |     Yes     |    7.0/10  | Switched to Orbiter, and changed filaments. Stringing and other surface defect massively improved, same with overhangs. Other slicer optomizations
-|      RXL [5]       |       5,000      |        185       |       0.8         |     47m8s     |     ___     |    __/10  |
-|      X1C [NA]      |      10,000      |        500       |       1.2         |     44m26s    |     Yes     |   8.5/10  | Default config, good quality
+|    Ender-3 [NA]    |        500       |        50        |        0.6         |     2h2m      |     0.2     |    7.5/10  |    Good  |
+|     RXL [1]        |       1,500      |        175       |        0.5         |     59m42s    |     0.2     |   3.5/10   |  Slight layer shifting during diagonal travel moves, slight ringing, bad stringing, but otherwise an ok first ever print|
+|      RXL [2]       |       3,000      |        155       |       0.8         |     52m32s    |     0.2     |    4.0/10  | Ok print, slight ringing, smoothing factor far too high, small blots on surface of print, stringing
+|      RXL [3]       |       3,000      |        155       |       0.8         |     52m32s    |     0.2     |    5.0/10  | Decent print, bad stringing, slight surface defects, but much overall improved
+|      RXL [4]       |       3,000      |        185       |       0.8         |     41m30s    |     0.24     |    6.5/10  | Switched to Orbiter, and changed filaments. Stringing and other surface defect massively improved, same with overhangs. Other slicer optomizations
+|      RXL [5]       |       5,000      |        185       |       0.8         |     47m8s     |     ___     |    7.5/10  | Tuning done for: Pressure advance, temperature, accel, etc. Only slight issue is top layer and very mild stringing
+|      X1C [NA]      |      10,000      |        500       |       1.2         |     44m26s    |     0.24     |   8.5/10  | Default config, good quality
 
 Current reliability/setup issues:   
 -First layer height (Offset still needs to be furthur tuned)   
