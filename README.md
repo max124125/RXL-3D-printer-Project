@@ -2,10 +2,9 @@
 
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/c77d1dac-81b4-47f2-8889-d7eb92524d2f" width="350" />
+  <img src="https://github.com/user-attachments/assets/b8048e68-1749-4f39-b3e2-3a09adfe6fdf" width="350" />
   <img src="https://github.com/user-attachments/assets/8f677c62-449a-4d4f-bc55-940c2a2fa10f" width="350" /> 
 </p>
-
 
 What is the project:
 To build a large format (350mm x 350mm x 410mm), enclosed, high speed, easily modable, 3D printer.
