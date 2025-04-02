@@ -3,7 +3,7 @@
 
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/db2507a0-97f1-4131-9a4e-040b31bc373f" width="400" />
+  <img src="https://github.com/user-attachments/assets/db2507a0-97f1-4131-9a4e-040b31bc373f" width="420" />
   <img src="https://github.com/user-attachments/assets/8f677c62-449a-4d4f-bc55-940c2a2fa10f" width="350" /> 
 </p>
 
@@ -86,8 +86,8 @@ The desired speed is to be sub 20mins for the benchy at good quality.
 Other print settings (such as minimum layer time) will also be changed and this will be reflected in the quality rating and benchy time. 
 
 Additional Note:  
-Filament: Bambu labs PETG HF   
-Layer height: 0.2mm
+Filament: Bambu labs PETG HF
+Tuning is done to increase quality and speed, but maintain other key attributes such as strength (i.e. 3 walls even when 1 would technically work and be much faster)
 
 Printer heating and prepare time also will not be included. However, It is such for each printer when printing PETG Hf from bambu labs:  
 Ender 3: [Heat time 3:50] [Prep time 20s].  
