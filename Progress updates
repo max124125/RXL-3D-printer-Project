@@ -24,11 +24,12 @@ Frame outer design mostly finalized
 Feb 22: 
 CAD work done for frame and z axis design.
 
+-------------New Week----------------
+
 Feb 24:
 Holes drilled in all extrusion and 2040 extrusion end tapped
 Linear rails cleaned
 Partial assembly of frame done with both 450mm linear rails installed on Y axis
-
 4x MGN12H by 450mm linear Rails ordered 
 9mm Gt2 by 5m Belts ordered
 
@@ -40,12 +41,13 @@ More parts being reprinted.
 Additional Frame assembly with all four new 450mm linear rails being installed
 Z axis design started
 
-
 Feb 27:
 Mounting of firstgantry parts and more CAD design.
 Frame rebuild with 2020 corner braces and +100 Tnuts loaded into extrusions
 Gantry belt tensioners printed V1 and V2
 Electronics mounted to frame using old parts
+
+-------------New Week----------------
 
 March 2:
 Belt tensioners V3 printed and Mounted
@@ -67,21 +69,75 @@ Hotend mounted.
 Wiring partially done.
 Rear z axis mount V1 printed.
 
+March 6:
+New x axis gantry end brackets printed
+
+-------------New Week----------------
+
+March 10, 
+Mounting of new end gantry brackets
+Belt tensioning and alignement
+Wiring  all key components and software
+
+March 11:
+Mounting of Bowden extruder
+Wiring all key components and software
+lots of work on configuring software for machine 
+
+March 12: 
+lots more software fixes and changes
+
+March 13:
+More software fixes and changes
+First print ever [a Benchy], layer shifting and stringing issues but otherwise a decent print
+
+March 17:
+Changes to Slicer and furthur tuning of software 
+
+-------------New Week----------------
+
+March 24:
+CAD work for Hotend
+New hotend setup printed 
+
+March 25: 
+New Hotend assembly attempt, issues found however.
+Hotend CAD fixes
+
+March 26: 
+Hotend Reprint and assembly 
+First test prints
+
+March 27:
+Hotend fixes
+Lots of Slicer Tuning
+Octopus board mounted to new brackets
+Octopus board fan shroud mounted
+
+-------------New Week----------------
+
+March 31:
+Mains wiring covers being designed and printed
+New Bed brackets put on to stiffen bed
+General CAD work
+
+April 1:
+New Z belt clips for 2 front z motors
+2 main side panels sent out to be manufactured
+Bowden tube holder at back of frame
+Slicer tunning
+
+April 2:
 
 
-PARTS NEEDED TILL PRINTING POSSIBLE:
--Rear Z axis rail and belt mount.
--Z axis motor wiring. 
--Extruder mounting
--Wire Sling
--Octopus board cooling
 
-IMMEDIATE PARTS NEEDED AFTER:
--Direct Drive Extruder
--New wire sling
--Top mounted spool holder
-
-
+NEXT MAJOR ISSUES:  
+- Hotend Wire harness
+- Enclosure
+- Charcol filter
+- Purge bucket
+- Nozzle Cleaner
+- 350mm bed Plate
 
 
 
