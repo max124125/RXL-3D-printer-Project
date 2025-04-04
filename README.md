@@ -96,18 +96,19 @@ RXL: [Heat time: 3:10] [Prep time 2m30s].
 
 |  Printer & Trial   | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |  Layer height   |    Rating    |     Notes    |
 |       :---:        |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |     :---:    |  
-|    Ender-3 [NA]    |        500       |        50        |        0.6         |     2h2m      |     0.2     |    7.5/10  |    Good  |
+|    Ender-3 [NA]    |        500       |        50        |        0.6         |     2h2m      |     0.2     |    7.5/10  |    Good quality,   |
 |     RXL [1]        |       1,500      |        175       |        0.5         |     59m42s    |     0.2     |   3.5/10   |  Slight layer shifting during diagonal travel moves, slight ringing, bad stringing, but otherwise an ok first ever print|
 |      RXL [2]       |       3,000      |        155       |       0.8         |     52m32s    |     0.2     |    4.0/10  | Ok print, slight ringing, smoothing factor far too high, small blots on surface of print, stringing
 |      RXL [3]       |       3,000      |        155       |       0.8         |     52m32s    |     0.2     |    5.0/10  | Decent print, bad stringing, slight surface defects, but much overall improved
+|      X1C [NA]      |      10,000      |        500       |       1.2         |     43m46s    |     0.24     |   8.5/10  | Default config, good quality
 |      RXL [4]       |       4,000      |        185       |       0.8         |     41m30s    |     0.24     |    6.5/10  | Switched to Orbiter, and changed filaments. Stringing and other surface defect massively improved, same with overhangs. Other slicer optomizations
 |      RXL [5]       |       4,000      |        185       |       0.8         |     41m30s     |    0.24     |    7.5/10  | Tuning done for: Pressure advance, temperature, accel, etc. Only slight issue is top layer and very mild stringing
 |      RXL [6]       |       4,000      |        185       |       0.8         |     _____     |     0.24     |    ___/10  | 
-|      X1C [NA]      |      10,000      |        500       |       1.2         |     43m46s    |     0.24     |   8.5/10  | Default config, good quality
 
 Current reliability/setup issues:   
--First layer height (Offset still needs to be furthur tuned)   
--Hotend wires interfere with belts and Klicky probe   
--Z-axis belt holders are bending and need to be redesigned
--No screen to help monitor printer
--Nozzle Cleaner
+-First layer height (Offset is tuned, however klicky probe results will sometimes vary, so new/more rigid setup needs to be tested)    
+-Hotend wires interfere with belts and Klicky probe (most wires moved and supported, wire harness needs to be improved but not a major issue anymore)  
+-Z-axis belt holders are bending and can break (Front ones redesigned and much more rigid now, but rear still an issue)  
+-No screen to help monitor printer (Delayed till after all other wires and in cable trays, low priority)  
+-Camera to view prints (...
+-Nozzle Cleaner and purge (...
