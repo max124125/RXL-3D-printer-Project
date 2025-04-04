@@ -13,7 +13,7 @@ To build a large format (350mm x 350mm x 410mm), enclosed, high speed, easily mo
 Justifications:
 My current printers are a modified Ender 3 and a Voron 0.1 (Tiny-M Configuration).
 With these printers I find that printing any large scale parts is impossible, many times my voron 0.1 has been too small to print a part, and then the slicing on the ender-3 gives a print time that is frustratingly long (and then will have subpar print quality anyway).
-Additionally, the ender 3 build volume is good, but even this has been too small on several occasions (and unenclosed, on the rare case I needed to print ABS).
+Additionally, the ender 3 build volume is good, but even this has been too small on several occasions (and unenclosed, in the when I wished to print ABS).
 
 Design Goals:
  - Build Volume of 350mm x 350mm x 410mm, with room to move hotend over nozzle cleaner + purge shoot (similar to Bambu labs) and potentially other future features (tool changer area?).
@@ -24,7 +24,7 @@ Design Goals:
 Future features: 
  - Built-in side panel AMS
  - Tool changer
- - Enclosure
+
 
 Inspirations for this project:  
 -VzBot  
