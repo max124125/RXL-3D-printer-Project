@@ -26,11 +26,11 @@ Future features:
  - Tool changer
  - Enclosure
 
-Inspirations for this project:
--VzBot
--Voron Trident
--Monolith Gantry Mod (For Voron Trident & 2.4)
--RatRig V-Core 4
+Inspirations for this project:  
+-VzBot  
+-Voron Trident  
+-Monolith Gantry Mod (For Voron Trident & 2.4)  
+-RatRig V-Core 4  
 
 Frame Justifications:
 By using 2040 braces (in the horizontal configuration) the misumi data shows that this is ~7x more rigid than a single 2020 yet only adds an additional 40mm in x and y for the frame. Additionally, 4040 extrusions in the corners of the printer are ~12x more rigid than a single 2020, and when paired with the horizontal 2040's adds no additional size to the printer.
