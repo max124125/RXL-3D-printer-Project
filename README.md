@@ -79,14 +79,15 @@ Electronics system update.
 <img src="https://github.com/user-attachments/assets/15b6d163-4cd9-41d7-9158-ccc922d62c64" width="400" />
 
 
+--------------------------------------------------------------------------------------------------------------------------------------
+SPEED TRIALS: 
 
-Speed trials: 
 A large goal of this printer is to replace my ender 3. As such it is being used for the baseline speed test as the RXL is tested. 
 The desired speed is to be sub 20mins for the benchy at good quality.
 Other print settings (such as minimum layer time) will also be changed and this will be reflected in the quality rating and benchy time. 
 
-Additional Note:  
-Filament: Bambu labs PETG HF
+Additional Notes on prints:  
+Filament: Bambu labs PETG HF  
 Tuning is done to increase quality and speed, but maintain other key attributes such as strength (i.e. 3 walls even when 1 would technically work and be much faster)
 
 Printer heating and prepare time also will not be included. However, It is such for each printer when printing PETG Hf from bambu labs:  
