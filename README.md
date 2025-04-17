@@ -97,11 +97,11 @@ RXL: [Heat time: 3:10] [Prep time 2m30s].
 
 |  Printer & Trial   | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |  Layer height   |    Rating    |     Notes    |
 |       :---:        |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |     :---:    |  
-|   |Ender-3 [NA]    |        500       |        50        |        0.6         |     2h2m      |     0.2     |    7.5/10  |    Good quality,   |
+|   '|Ender-3 [NA]'    |        500       |        50        |        0.6         |     2h2m      |     0.2     |    '7.5/10'  |    Good quality, bad first layer and struggles with steep overhangs |
 |     RXL [1]        |       1,500      |        175       |        0.5         |     59m42s    |     0.2     |   3.5/10   |  Slight layer shifting during diagonal travel moves, slight ringing, bad stringing, but otherwise an ok first ever print|
 |      RXL [2]       |       **3,000**      |        **155**       |       **0.8**         |     52m32s    |     0.2     |    4.0/10  | Ok print, slight ringing, smoothing factor far too high, small blots on surface of print, stringing
 |      RXL [3]       |       3,000      |        155       |       0.8         |     52m32s    |     0.2     |    5.0/10  | Decent print, bad stringing, slight surface defects, but much overall improved
-|      X1C [NA]      |      10,000      |        500       |       1.2         |     43m46s    |     0.24     |   8.5/10  | Default config, good quality
+|      'X1C [NA]'      |      10,000      |        500       |       1.2         |     43m46s    |     0.24     |   '8.5/10'  | Default config, good quality
 |      RXL [4]       |       **4,000**      |        **185**       |       0.8         |     41m30s    |     **0.24**     |    6.5/10  | Switched to Orbiter, and changed filaments. Stringing and other surface defect massively improved, same with overhangs. Other slicer optomizations
 |      RXL [5]       |       4,000      |        185       |       0.8         |     41m30s     |    0.24     |    7.5/10  | Tuning done for: Pressure advance, temperature, accel, etc. Only slight issue is top layer and very mild stringing
 |      RXL [6]       |       4,000      |        225       |       0.8         |     36m48s     |    0.24     |    7.25/10  | With higher speeds, new ssues on top layers and ringing
@@ -115,29 +115,3 @@ Current reliability/setup issues:
 -Camera to view prints (...
 -Nozzle Cleaner and purge (...
 
-## Table Styling in Markdown
-
-<style>
-    .heatMap {
-        width: 70%;
-        text-align: center;
-    }
-    .heatMap th {
-        background: grey;
-        word-wrap: break-word;
-        text-align: center;
-    }
-    .heatMap tr:nth-child(1) { background: red; }
-    .heatMap tr:nth-child(2) { background: orange; }
-    .heatMap tr:nth-child(3) { background: green; }
-</style>
-
-<div class="heatMap">
-
-| Everything | in this table | is Centered | and the table will only take up 70% of the screen width | 
-| -- | -- | -- | -- |
-| This | is | a | Red Row |
-| This | is | an | Orange Row |
-| This | is | a | Green Row |
-
-</div>
