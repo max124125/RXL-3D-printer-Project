@@ -95,22 +95,24 @@ Ender 3: [Heat time 3:50] [Prep time 20s].
 X1C: [Heat time 1:30] [Prep time 5m46s].  
 RXL: [Heat time: 3:10] [Prep time 2m30s].  
 
+## Table Styling in Markdown
+
 <style>
-    .speedmap {
-        width: 100%;
+    .heatMap {
+        width: 70%;
         text-align: center;
     }
-    .speedmap th {
+    .heatMap th {
         background: grey;
         word-wrap: break-word;
         text-align: center;
     }
-    .speedmap tr:nth-child(1) { background: red; }
-    .speedmap tr:nth-child(2) { background: orange; }
-    .speedmap tr:nth-child(3) { background: green; }
+    .heatMap tr:nth-child(1) { background: red; }
+    .heatMap tr:nth-child(2) { background: orange; }
+    .heatMap tr:nth-child(3) { background: green; }
 </style>
 
-<div class="speedmap">
+<div class="heatMap">
 
 |  Printer & Trial   | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |  Layer height   |    Rating    |     Notes    |
 |       :---:        |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |     :---:    |  
@@ -123,6 +125,8 @@ RXL: [Heat time: 3:10] [Prep time 2m30s].
 |      RXL [5]       |       4,000      |        185       |       0.8         |     41m30s     |    0.24     |    7.5/10  | Tuning done for: Pressure advance, temperature, accel, etc. Only slight issue is top layer and very mild stringing
 |      RXL [6]       |       4,000      |        225       |       0.8         |     36m48s     |    0.24     |    7.25/10  | With higher speeds, new ssues on top layers and ringing
 |      RXL [7]       |       4,000      |        225       |       0.8         |     ______    |    0.24     |    ___/10  | Input shaper tuned + nozzle wiper added
+
+</div>
 
 Current reliability/setup issues:   
 -First layer height (Offset is tuned, however klicky probe results will sometimes vary, so new/more rigid setup needs to be tested)    
