@@ -97,7 +97,7 @@ RXL: [Heat time: 3:10] [Prep time 2m30s].
 
 |  Printer & Trial   | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |  Layer height   |    Rating    |     Notes    |
 |       :---:        |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |     :---:    |  
-|    Ender-3 [NA]    |        500       |        50        |        0.6         |     2h2m      |     0.2     |    7.5/10  |    Good quality,   |
+|   \color{green} Ender-3 [NA]    |        500       |        50        |        0.6         |     2h2m      |     0.2     |    7.5/10  |    Good quality,   |
 |     RXL [1]        |       1,500      |        175       |        0.5         |     59m42s    |     0.2     |   3.5/10   |  Slight layer shifting during diagonal travel moves, slight ringing, bad stringing, but otherwise an ok first ever print|
 |      RXL [2]       |       **3,000**      |        **155**       |       **0.8**         |     52m32s    |     0.2     |    4.0/10  | Ok print, slight ringing, smoothing factor far too high, small blots on surface of print, stringing
 |      RXL [3]       |       3,000      |        155       |       0.8         |     52m32s    |     0.2     |    5.0/10  | Decent print, bad stringing, slight surface defects, but much overall improved
