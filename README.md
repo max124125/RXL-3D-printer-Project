@@ -78,8 +78,8 @@ RXL: [Heat time: 4:10] [Prep time 2m30s].
 |      RXL [6]       |       4,000      |        225       |       0.8         |     36m48s     |    0.24     |    7.25/10  | With higher speeds, new issues on top layers and ringing
 |      RXL [7]       |       7,000      |        350       |       0.8         |     33m54s    |    0.24     |    8/10  | Many slicer and printer software upgrades + tuning. No more top layer issues or stringing. 350mm MIC6 Plate added (no warping or first layer flaws whatsovever atm) Only issues are at seam and with ringing as IS has not been added yet.
 
-|  Upgrade Version  |  Succesful print %    |  Upgrades Done |     Issues to be fixed   |
-|       :-----:         |       :---:      |       :---:        | |       :---:        |
+|  Upgrade Version  |  Succesful print %    |  Upgrades Done |     Issues to be fixed   |  
+|       :-----:         |       :---:      |       :---:        |       :---:        |  
 |   V1   | >10% | NA (First prints) | Hotend wires interferring with belts and homing, Filament on nozzle ruining first layers, etc., |
 |   V2   | 25% | Preliminary hotend harness added, start gcode purge line upgraded)| Bed meshing and levelling inconsistent, first layer is not at correct height |
 |   V3   | 30% | Bed mounts stiffened (improving meshing), Retraction added before and after prints to reduce ozzing)| First layer is still overly flawed (Curling up, stringing, etc.) |
@@ -106,7 +106,7 @@ Summary Comparison to design  Goals:
 |  Deign Goal  |   Goal Breakdownb  |  Current capabilities   |
 |       :-----:         |       :---:      |        :---:      | 
 |  1a  | Build Volume of 350mm x 350mm x 400mm (xyz) | X:300mm(Hotend wider than needed) Y:340mm(Bed 10mm too far forward) Z:385 (Z Gantry unessasairly thick) |
-|  1b  | Room to move hotend over nozzle cleaner + purge shoot + klicky probe dock + filament cutter | +40mm of free room at back, Klicky probe already added |
+|  1b  | Room to move hotend over nozzle cleaner + purge shoot + klicky probe dock + filament cutter | +40mm of free room at back, Klicky probe already added. First rounds of purge shoot and nozzle wiper to be added soon |
 |  2   | Print times that are at least 1/3 faster than the X1C while maintaining quality | Print times are about ~5% faster as is, but printer is nowhere near maxed out with current components. Quality is very close to X1C and with Seam and IS tuning should soon be equal/better than it |
 | 3   | Absolute Safety | Thermal runaway and all Software safety features enabled, Thermal fuses, signifigantly overpowered SSR and 24v Power supply, components with heat sinks where needed. To be added though: Smoke detector, carbon filter in enclosure, etc. 
 | 4   | Quiet enough to be in the same room and work around | System is suprisingly quiet even at +7K and 350mm speeds, enclosure has further reduced noise, vibration feet added. Concrete slab is the next addition to be tested)
