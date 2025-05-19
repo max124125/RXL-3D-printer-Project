@@ -7,21 +7,19 @@
 </p>
 
 What is the project:
-To build a large format (350mm x 350mm x 410mm), enclosed, high speed, easily modable, 3D printer.
+To build a large format (350mm x 350mm x 400mm), enclosed, high speed, easily modable, 3D printer.
 
 Justifications:
 My current printers are a modified Ender 3 and a Voron 0.1 (Tiny-M Configuration).
-With these printers I find that printing any large scale parts is impossible, many times my voron 0.1 has been too small to print a part, and then the slicing on the ender-3 gives a print time that is frustratingly long (and then will have subpar print quality anyway).
+With these printers I find that printing any large scale parts is impossible, many times my voron 0.1 has been too small to print a part, and then the slicing on the ender-3 gives a print time that is frustratingly long (and then will have subpar print quality anyway). Similarly, the base design and parts I am using for the Voron 0.1 is very unreliable and has many issues (Bed is very warped, too small for nozzle wiper, clicky probe, purge shoot or filament cutter [unless several servos used], meaning first layer peace-of-mind upgrades and MMU are tough to imnplement, plus other issues on the printer in general)
 Additionally, the ender 3 build volume is good, but even this has been too small on several occasions (and unenclosed, when I wished to print ABS, or other enclosure based materials).
 
 Design Goals:
- - Build Volume of 350mm x 350mm x 410mm, with room to move hotend over nozzle cleaner + purge shoot (similar to Bambu labs) and potentially other future features (tool changer area?).
+ - Build Volume of 350mm x 350mm x 410mm, with room to move hotend over nozzle cleaner + purge shoot + klicky probe dock + filament cutter (similar to Bambu labs) and potentially other future features (tool changer area?).
  - Print times that are at least 1/3 faster than the X1C (at the same settings [walls, infill, etc.]) whithout sacrificing print quality (X1C benchy 38m3s, RXL 1/3 faster goal: 25m22s)
  - ABSOLUTE RELIABILITY (perfect first layers, minimal print artificats, rare failed prints, etc. (at least on par or better than the X1C).
- - Safe (Thermal runaway and all Software safety features enabled, Thermal fuses, Smoke detector, signifigantly overpowered SSR and 24v Power supply, components with heat sinks where needed, Carbon filter in enclosure, etc.)  
- - Quiet enough to be in the same room(Quiet motion components, enclosed, vibration dampening feet, etc.)
- - 
-Future features: 
+ - Absolute Safety (more in summary)
+- Quiet enough to be in the same room and work around
  - Built-in side panel MMU 
 
 
@@ -103,4 +101,14 @@ Current reliability/setup issues:
 Quality of life issues: 
 -Print Bed cable carrier needs to be added.
 -Rear acrylic panel still needs to be added
+
+Summary Comparison to design  Goals:
+|  Deign Goal  |   Goal Breakdownb  |  Current capabilities   |
+|       :-----:         |       :---:      |        :---:      | 
+|  1a  | Build Volume of 350mm x 350mm x 400mm (xyz) | X:300mm(Hotend wider than needed) Y:340mm(Bed 10mm too far forward) Z:385 (Z Gantry unessasairly thick) |
+|  1b  | Room to move hotend over nozzle cleaner + purge shoot + klicky probe dock + filament cutter | +40mm of free room at back, Klicky probe already added |
+|  2   | Print times that are at least 1/3 faster than the X1C while maintaining quality | Print times are about ~5% faster as is, but printer is nowhere near maxed out with current components. Quality is very close to X1C and with Seam and IS tuning should soon be equal/better than it |
+| 3   | Absolute Safety | Thermal runaway and all Software safety features enabled, Thermal fuses, signifigantly overpowered SSR and 24v Power supply, components with heat sinks where needed. To be added though: Smoke detector, carbon filter in enclosure, etc. 
+| 4   | Quiet enough to be in the same room and work around | System is suprisingly quiet even at +7K and 350mm speeds, enclosure has further reduced noise, vibration feet added. Concrete slab is the next addition to be tested)
+| 5   | Built-in side panel MMU | Already have most/all components and preliminary CAD started for this (rewind issue not sorted yet) |
 
