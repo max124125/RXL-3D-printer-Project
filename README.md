@@ -16,13 +16,13 @@ Additionally, the ender 3 build volume is good, but even this has been too small
 
 Design Goals:
  - Build Volume of 350mm x 350mm x 410mm, with room to move hotend over nozzle cleaner + purge shoot (similar to Bambu labs) and potentially other future features (tool changer area?).
- - Input shaper results of around 50K or above for both axes.
- - Travel speeds of over 700mm/s and general printing accels (at least) double that of the X1C(20k travel, 10k outer wall, etc.)
+ - Print times that are at least 1/3 faster than the X1C (at the same settings [walls, infill, etc.]) whithout sacrificing print quality (X1C benchy 38m3s, RXL 1/3 faster goal: 25m22s)
  - ABSOLUTE RELIABILITY (perfect first layers, minimal print artificats, rare failed prints, etc. (at least on par or better than the X1C).
-
+ - Safe (Thermal runaway and all Software safety features enabled, Thermal fuses, Smoke detector, signifigantly overpowered SSR and 24v Power supply, components with heat sinks where needed, Carbon filter in enclosure, etc.)  
+ - Quiet enough to be in the same room(Quiet motion components, enclosed, vibration dampening feet, etc.)
+ - 
 Future features: 
- - Built-in side panel AMS
- - Tool changer
+ - Built-in side panel AMS 
 
 
 Inspirations for this project:  
@@ -74,9 +74,9 @@ RXL: [Heat time: 4:10] [Prep time 2m30s].
 |     RXL [1]        |       1,500      |        175       |        0.5         |     59m42s    |     0.2     |   3.5/10   |  Slight layer shifting during diagonal travel moves, slight ringing, bad stringing, but otherwise an ok first ever print|
 |      RXL [2]       |       **3,000**      |        **155**       |       **0.8**         |     52m32s    |     0.2     |    4.0/10  | Ok print, slight ringing, smoothing factor far too high, small blots on surface of print, stringing
 |      RXL [3]       |       3,000      |        155       |       0.8         |     52m32s    |     0.2     |    5.0/10  | Decent print, bad stringing, slight surface defects, but much overall improved
-|      `X1C [NA]`      |      10,000      |        500       |       1.2         |     `43m46s`    |     0.24     |   `8.5/10`  | Default config, good quality
 |      RXL [4]       |       **4,000**      |        **185**       |       0.8         |     41m30s    |     **0.24**     |    6.5/10  | Switched to Orbiter, and changed filaments. Stringing and other surface defect massively improved, same with overhangs. Other slicer optomizations
 |      RXL [5]       |       4,000      |        185       |       0.8         |     41m30s     |    0.24     |    7.5/10  | Tuning done for: Pressure advance, temperature, accel, etc. Only slight issue is top layer and very mild stringing
+|      `X1C [NA]`      |      10,000      |        500       |       1.2         |     `38m3s`    |     0.24     |   `8.75/10`  | Default config, good quality
 |      RXL [6]       |       4,000      |        225       |       0.8         |     36m48s     |    0.24     |    7.25/10  | With higher speeds, new issues on top layers and ringing
 |      RXL [7]       |       7,000      |        350       |       0.8         |     33m54s    |    0.24     |    8/10  | Many slicer and printer software upgrades + tuning. No more top layer issues or stringing. 350mm MIC6 Plate added (no warping or first layer flaws whatsovever atm) Only issues are at seam and with ringing as IS has not been added yet.
 
