@@ -78,6 +78,8 @@ RXL: [Heat time: 4:10] [Prep time 2m30s].
 |      RXL [6]       |       4,000      |        225       |       0.8         |     36m48s     |    0.24     |    7.25/10  | With higher speeds, new issues on top layers and ringing
 |      RXL [7]       |       7,000      |        350       |       0.8         |     33m54s    |    0.24     |    8/10  | Many slicer and printer software upgrades + tuning. No more top layer issues or stringing. 350mm MIC6 Plate added (no warping or first layer flaws whatsovever atm) Only issues are at seam and with ringing as IS has not been added yet.
 
+
+Reliabilty Table tracking:  
 |  Upgrade Version  |  Succesful print %    |  Upgrades Done |     Issues to be fixed   |  
 |       :-----:         |       :---:      |       :---:        |       :---:        |  
 |   V1   | >10% | NA (First prints) | Hotend wires interferring with belts and homing, Filament on nozzle ruining first layers, etc., |
@@ -90,19 +92,8 @@ RXL: [Heat time: 4:10] [Prep time 2m30s].
 |   V8   | __% | ______ | _______ |
 
 
-Current reliability/setup issues:   
--First layer height (Offset is tuned, however klicky probe results will sometimes vary, so new/more rigid setup needs to be tested)    
--Hotend wires interfere with belts and Klicky probe (Mostly solved but, refined wire harness still needed though)  
--Z-axis belt holders are bending and can break (Front ones redesigned and much more rigid now, rear partialy rebuilt but still an issue)  
--No screen to help monitor printer (screen does not turn on, furthur testing needed)     
--Camera to view prints (Camera does not seem to work, more testing needed)     
--Nozzle Cleaner and purge (All parts arrived, first iterations soon to be printed
 
-Quality of life issues: 
--Print Bed cable carrier needs to be added.
--Rear acrylic panel still needs to be added
-
-Summary Comparison to design  Goals:
+Summary Comparison to design  Goals:  
 |  Deign Goal  |   Goal Breakdownb  |  Current capabilities   |
 |       :-----:         |       :---:      |        :---:      | 
 |  1a  | Build Volume of 350mm x 350mm x 400mm (xyz) | X:300mm(Hotend wider than needed) Y:340mm(Bed 10mm too far forward) Z:385 (Z Gantry unessasairly thick) |
@@ -112,3 +103,18 @@ Summary Comparison to design  Goals:
 | 4   | Quiet enough to be in the same room and work around | System is suprisingly quiet even at +7K and 350mm speeds, enclosure has further reduced noise, vibration feet added. Concrete slab is the next addition to be tested)
 | 5   | Built-in side panel MMU | Already have most/all components and preliminary CAD started for this (rewind issue not sorted yet) |
 
+Future plans:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Current reliability/setup issues:    
+-Hotend wires interfere with belts and Klicky probe (Mostly solved but, refined wire harness still needed though)  
+-Z-axis belt holders are bending and can break (Front ones redesigned and much more rigid now, rear partialy rebuilt but still an issue)  
+-Screen to help monitor printer and edit/cancel prints on the fly (screen does not turn on, furthur testing needed)     
+-Camera to view prints (Camera does not seem to work, more testing needed)     
+-Nozzle Cleaner and purge (All parts arrived, first iterations soon to be printed)
+
+Quality of life upgrades to be done: 
+-Print Bed cable carrier needs to be added.
+-Rear acrylic panel still needs to be added
+-Lighting to encloosure
+-Drawers at front
