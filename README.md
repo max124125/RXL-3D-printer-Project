@@ -66,7 +66,7 @@ Tuning is done to increase quality and speed, but maintain other key attributes 
 Printer heating and prepare time also will not be included. However, It is such for each printer when printing PETG Hf from bambu labs:  
 Ender 3: [Heat time 3:50] [Prep time 20s].  
 X1C: [Heat time 1:30] [Prep time 5m46s].  
-RXL: [Heat time: 3:10] [Prep time 2m30s].  
+RXL: [Heat time: 4:10] [Prep time 2m30s].  
 
 |  Printer & Trial   | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |  Layer height   |    Rating    |     Notes    |
 |       :-----:        |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |     :---:    |    
@@ -78,13 +78,29 @@ RXL: [Heat time: 3:10] [Prep time 2m30s].
 |      RXL [4]       |       **4,000**      |        **185**       |       0.8         |     41m30s    |     **0.24**     |    6.5/10  | Switched to Orbiter, and changed filaments. Stringing and other surface defect massively improved, same with overhangs. Other slicer optomizations
 |      RXL [5]       |       4,000      |        185       |       0.8         |     41m30s     |    0.24     |    7.5/10  | Tuning done for: Pressure advance, temperature, accel, etc. Only slight issue is top layer and very mild stringing
 |      RXL [6]       |       4,000      |        225       |       0.8         |     36m48s     |    0.24     |    7.25/10  | With higher speeds, new issues on top layers and ringing
-|      RXL [7]       |       4,000      |        225       |       0.8         |     ______    |    0.24     |    ___/10  | Input shaper tuned + nozzle wiper added
+|      RXL [7]       |       7,000      |        350       |       0.8         |     33m54s    |    0.24     |    8/10  | Many slicer and printer software upgrades + tuning. No more top layer issues or stringing. 350mm MIC6 Plate added (no warping or first layer flaws whatsovever atm) Only issues are at seam and with ringing as IS has not been added yet.
+
+|  Upgrade Version  |  Succesful print %    |  Upgrades Done |     Issues to be fixed   |
+|       :-----:         |       :---:      |       :---:        | |       :---:        |
+|   V1   | >10% | NA (First prints) | Hotend wires interferring with belts and homing, Filament on nozzle ruining first layers, etc., |
+|   V2   | 25% | Preliminary hotend harness added, start gcode purge line upgraded)| Bed meshing and levelling inconsistent, first layer is not at correct height |
+|   V3   | 30% | Bed mounts stiffened (improving meshing), Retraction added before and after prints to reduce ozzing)| First layer is still overly flawed (Curling up, stringing, etc.) |
+|   V4   | 35% | Nozzle Wiper added, first layer accels and speed majorly reduced, and heat tuned for first layer | Warping and first layer adhesion still an issue   |
+|   V5   | 50% |3 minutes added for heatsoaking and increased bed temperature| Bed adhesion on glass bed is still quite poor  |
+|   V6   | 85% |MIC6 Bed added with textured PEI top but nozzle wiper had to be removed| Nozzle wiping needed and klicky probe reliability issues.
+|   V7   | 89% |Improved Start and end Gcode has removed most need for nozzle wiping (nozzle wiper still will be added later though), klicky probe reassembled | Wire Harness will still occasionally interfer with homing |
+|   V8   | __% | ______ | _______ |
+
 
 Current reliability/setup issues:   
 -First layer height (Offset is tuned, however klicky probe results will sometimes vary, so new/more rigid setup needs to be tested)    
--Hotend wires interfere with belts and Klicky probe (solved, refined wire harness still needed though)  
+-Hotend wires interfere with belts and Klicky probe (Mostly solved but, refined wire harness still needed though)  
 -Z-axis belt holders are bending and can break (Front ones redesigned and much more rigid now, rear partialy rebuilt but still an issue)  
 -No screen to help monitor printer (screen does not turn on, furthur testing needed)     
--Camera to view prints (Camera does not seem to work, more testing needed      
+-Camera to view prints (Camera does not seem to work, more testing needed)     
 -Nozzle Cleaner and purge (All parts arrived, first iterations soon to be printed
+
+Quality of life issues: 
+-Print Bed cable carrier needs to be added.
+-Rear acrylic panel still needs to be added
 
