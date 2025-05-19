@@ -77,22 +77,9 @@ RXL: [Heat time: 4:10] [Prep time 2m30s].
 |      `X1C [NA]`      |      10,000      |        500       |       1.2         |     `38m3s`    |     0.24     |   `8.75/10`  | Default config, good quality
 |      RXL [6]       |       4,000      |        225       |       0.8         |     36m48s     |    0.24     |    7.25/10  | With higher speeds, new issues on top layers and ringing
 |      RXL [7]       |       7,000      |        350       |       0.8         |     33m54s    |    0.24     |    8/10  | Furthur tuning. No more top layer issues or stringing. 350mm MIC6 Plate added with T-PEI(no warping or first layer flaws whatsovever atm) Only issues are at seam and with ringing.
-
-
-Reliabilty Table tracking:  
-|  Upgrade Version  |  Succesful print %    |  Upgrades Done |     Issues to be fixed   |  
-|       :-----:         |       :---:      |       :---:        |       :---:        |  
-|   V1   | >10% | NA (First prints) | Hotend wires interferring with belts and homing, Filament on nozzle ruining first layers, etc., |
-|   V2   | 25% | Preliminary hotend harness added, start gcode purge line upgraded)| Bed meshing and levelling inconsistent, first layer is not at correct height |
-|   V3   | 30% | Bed mounts stiffened (improving meshing), Retraction added before and after prints to reduce ozzing)| First layer is still overly flawed (Curling up, stringing, etc.) |
-|   V4   | 35% | Nozzle Wiper added, first layer accels and speed majorly reduced, and heat tuned for first layer | Warping and first layer adhesion still an issue   |
-|   V5   | 50% |3 minutes added for heatsoaking and increased bed temperature| Bed adhesion on glass bed is still quite poor  |
-|   V6   | 85% |MIC6 Bed added with textured PEI top but nozzle wiper had to be removed| Nozzle wiping needed and klicky probe reliability issues.
-|   V7   | 89% |Improved Start and end Gcode has removed most need for nozzle wiping (nozzle wiper still will be added later though), klicky probe reassembled | Wire Harness will still occasionally interfer with homing |
-|   V8   | __% | ______ | _______ |
-
-
-
+  
+  
+  
 Summary Comparison to design  Goals:  
 |  Deign Goal  |   Goal Breakdownb  |  Current capabilities   |
 |       :-----:         |       :---:      |        :---:      | 
@@ -115,7 +102,7 @@ Current reliability/setup issues:
 -Nozzle Cleaner and purge (All parts arrived, first iterations soon to be printed)
 
 Quality of life upgrades to be done: 
--Print Bed cable carrier needs to be added.
--Rear acrylic panel still needs to be added
--Lighting to encloosure
--Drawers at front
+-Print Bed cable carrier needs to be added.  
+-Rear acrylic panel still needs to be added  
+-Lighting to encloosure  
+-Drawers at front  
