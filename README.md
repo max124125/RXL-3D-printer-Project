@@ -1,9 +1,8 @@
 **RXL (Rigid XL) 3D printer Project**
 
 
-
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/db2507a0-97f1-4131-9a4e-040b31bc373f" width="420" />
+  <img src="https://github.com/user-attachments/assets/4cb64197-a9bc-4353-89c3-1a801d798759" width="420" />
   <img src="https://github.com/user-attachments/assets/8f677c62-449a-4d4f-bc55-940c2a2fa10f" width="350" /> 
 </p>
 
