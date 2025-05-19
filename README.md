@@ -76,7 +76,7 @@ RXL: [Heat time: 4:10] [Prep time 2m30s].
 |      RXL [5]       |       4,000      |        185       |       0.8         |     41m30s     |    0.24     |    7.5/10  | Tuning done for: Pressure advance, temperature, accel, etc. Only slight issue is top layer and very mild stringing
 |      `X1C [NA]`      |      10,000      |        500       |       1.2         |     `38m3s`    |     0.24     |   `8.75/10`  | Default config, good quality
 |      RXL [6]       |       4,000      |        225       |       0.8         |     36m48s     |    0.24     |    7.25/10  | With higher speeds, new issues on top layers and ringing
-|      RXL [7]       |       7,000      |        350       |       0.8         |     33m54s    |    0.24     |    8/10  | Many slicer and printer software upgrades + tuning. No more top layer issues or stringing. 350mm MIC6 Plate added (no warping or first layer flaws whatsovever atm) Only issues are at seam and with ringing as IS has not been added yet.
+|      RXL [7]       |       7,000      |        350       |       0.8         |     33m54s    |    0.24     |    8/10  | Furthur tuning. No more top layer issues or stringing. 350mm MIC6 Plate added with T-PEI(no warping or first layer flaws whatsovever atm) Only issues are at seam and with ringing.
 
 
 Reliabilty Table tracking:  
