@@ -22,7 +22,7 @@ Design Goals:
  - Quiet enough to be in the same room(Quiet motion components, enclosed, vibration dampening feet, etc.)
  - 
 Future features: 
- - Built-in side panel AMS 
+ - Built-in side panel MMU 
 
 
 Inspirations for this project:  
