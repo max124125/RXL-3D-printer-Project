@@ -52,7 +52,7 @@ Left side is the first working version (from March), right side is the most up-t
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/15b6d163-4cd9-41d7-9158-ccc922d62c64" width="350" />
-  <img src="https://github.com/user-attachments/assets/de4a19c2-4d56-4a71-869b-d5798b26016c" width="290" /> 
+  <img src="https://github.com/user-attachments/assets/de4a19c2-4d56-4a71-869b-d5798b26016c" width="295" /> 
 </p>
 --------------------------------------------------------------------------------------------------------------------------------------
 SPEED TRIALS: 
