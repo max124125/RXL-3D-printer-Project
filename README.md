@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/4cb64197-a9bc-4353-89c3-1a801d798759" width="350" />
   <img src="https://github.com/user-attachments/assets/ff4f55d0-1933-4bb7-ae87-efda250b6075" width="352" /> 
 </p>
-
+ 
 What is the project:
 To build a large format (350mm x 350mm x 400mm), enclosed, high speed, easily modable, 3D printer.
 
