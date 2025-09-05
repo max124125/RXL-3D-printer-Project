@@ -3,7 +3,7 @@
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/4cb64197-a9bc-4353-89c3-1a801d798759" width="400" />
-  <img src="https://github.com/user-attachments/assets/8f677c62-449a-4d4f-bc55-940c2a2fa10f" width="350" /> 
+  <img src="https://github.com/user-attachments/assets/ff4f55d0-1933-4bb7-ae87-efda250b6075" width="350" /> 
 </p>
 
 What is the project:
