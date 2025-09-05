@@ -47,7 +47,7 @@ Motion system update.
 <img src="https://github.com/user-attachments/assets/5099330e-b0f2-433d-8a4b-6bfe8298d6b4" width="500" />
 
 Electronics system update.  
-Left side is the first working version, right side is the most up-to-dat verison
+Left side is the first working version (from March), right side is the most up-to-date verison (September)
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/15b6d163-4cd9-41d7-9158-ccc922d62c64" width="350" />
