@@ -96,11 +96,10 @@ Future plans:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Current reliability/setup issues:    
--Hotend wires interfere with belts and Klicky probe (Mostly solved but, refined wire harness still needed though)  
--Z-axis belt holders are bending and can break (Front ones redesigned and much more rigid now, rear partialy rebuilt but still an issue)  
+-Hotend wires occasionally (>1%) interfere with belts and Klicky probe (Mostly solved but, refined wire harness still needed though)  
 -Screen to help monitor printer and edit/cancel prints on the fly (screen does not turn on, furthur testing needed)     
 -Camera to view prints (Camera does not seem to work, more testing needed)     
--Nozzle Cleaner and purge (All parts arrived, first iterations soon to be printed)
+-Nozzle Cleaner and purge fully incorporated but will likely need to be improved when the MMU is added.
 
 Quality of life upgrades to be done: 
 -Print Bed cable carrier needs to be added.  
