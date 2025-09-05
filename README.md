@@ -46,10 +46,13 @@ However, it sums down to the fact that the AWD CoreXY system has been well teste
 Motion system update.   
 <img src="https://github.com/user-attachments/assets/5099330e-b0f2-433d-8a4b-6bfe8298d6b4" width="500" />
 
-Electronics system update.   
-<img src="https://github.com/user-attachments/assets/15b6d163-4cd9-41d7-9158-ccc922d62c64" width="400" />
+Electronics system update.  
+Left side is the first working version, right side is the most up-to-dat verison
 
-
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/15b6d163-4cd9-41d7-9158-ccc922d62c64" width="350" />
+  <img src="https://github.com/user-attachments/assets/de4a19c2-4d56-4a71-869b-d5798b26016c" width="352" /> 
+</p>
 --------------------------------------------------------------------------------------------------------------------------------------
 SPEED TRIALS: 
 
