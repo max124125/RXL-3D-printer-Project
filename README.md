@@ -68,7 +68,7 @@ Tuning is done to increase quality and speed, but maintain other key attributes 
 Printer heating and prepare time also will not be included. However, It is such for each printer when printing PETG Hf from bambu labs:  
 Ender 3: [Heat time 3:50] [Prep time 20s].  
 X1C: [Heat time 1:30] [Prep time 5m46s].  
-RXL: [Heat time: 4:10] [Prep time 2m30s].  
+RXL: [Heat time: 2:10] [Prep time 6m30s].  
 
 |  Printer & Trial   | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |  Layer height   |    Rating    |     Notes    |
 |       :-----:        |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |     :---:    |    
@@ -80,8 +80,8 @@ RXL: [Heat time: 4:10] [Prep time 2m30s].
 |      RXL [5]       |       4,000      |        185       |       0.8         |     41m30s     |    0.24     |    7.5/10  | Tuning done for: Pressure advance, temperature, accel, etc. Only slight issue is top layer and very mild stringing
 |      `X1C [NA]`      |      10,000      |        500       |       1.2         |     `38m3s`    |     0.24     |   `8.75/10`  | Default config, good quality
 |      RXL [6]       |       4,000      |        225       |       0.8         |     36m48s     |    0.24     |    7.25/10  | With higher speeds, new issues on top layers and ringing
-|      RXL [7]       |       7,000      |        350       |       0.8         |     33m54s    |    0.24     |    8/10  | Furthur tuning. No more top layer issues or stringing. 350mm MIC6 Plate added with T-PEI(no warping or first layer flaws whatsovever atm) Only issues are at seam and with ringing.
-|      RXL [8]       |       8,000      |        350       |       0.8         |     33m54s    |    0.24     |    8.5/10  | Furthur tuning. Stringing gone when filament properly dried, input shaping well calibrated, some top layer issues.
+|      RXL [7]       |       7,000      |        300       |       0.8         |     33m54s    |    0.24     |    8/10  | Furthur tuning. No more top layer issues or stringing. 350mm MIC6 Plate added with T-PEI(no warping or first layer flaws whatsovever atm) Only issues are at seam and with ringing.
+|      RXL [8]       |       8,000      |        300       |       0.8         |     ???    |    0.24     |    8.5/10  | Furthur tuning. Stringing gone when filament properly dried, input shaping well calibrated, some top layer issues.
   
   
   
