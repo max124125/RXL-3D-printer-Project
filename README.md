@@ -102,11 +102,11 @@ Future plans:
 Current reliability/setup issues:    
 -Hotend wires occasionally (>1%) interfere with belts and Klicky probe (Mostly solved but, refined wire harness still needed though)  
 -Screen to help monitor printer and edit/cancel prints on the fly (screen does not turn on, furthur testing needed)     
--Camera to view prints (Camera does not seem to work, more testing needed)     
+-Camera to view prints (Camera works, but new Pi power supply is needed)     
 -Nozzle Cleaner and purge fully incorporated but will likely need to be improved when the MMU is added.
 
 Quality of life upgrades to be done: 
--Print Bed cable carrier needs to be added.  
+-Print Bed cable carrier needs to be fixed at the termination point.  
 -Rear acrylic panel still needs to be added  
--Lighting to encloosure  
+-Add lighting to enclosure  
 -Drawers at front  
