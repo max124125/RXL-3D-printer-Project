@@ -201,9 +201,15 @@ Front door hinges modified from 90degrees to 270degrees of motion
 
 
 
---------------------------Break till August 20---------------------------
+--------------------------Break till August 25---------------------------
 
-
+Printbed mounts all redone to move bed back 10mm (inline with nozzle)
+Camera software fixed (Pi needs a larger power supply though).
+MMU Board connects to Pi
+MMU Software interface shows up on klipper
+Purge bucket strengthening upgrade done
+Main MMU CAD done, and preliminary testing of parts started
+Lower Spool Holders CAD Finished and being tested
 
 NEXT NEEDED UPGRADES:
 - Hotend Wire harness
