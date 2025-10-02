@@ -88,12 +88,12 @@ RXL: [Heat time: 2:10] [Prep time 6m30s].
 Summary Comparison to design  Goals:  
 |  Deign Goal  |   Goal Breakdownb  |  Current capabilities   |
 |       :-----:         |       :---:      |        :---:      | 
-|  1a  | Build Volume of 350mm x 350mm x 400mm (xyz) | X:300mm(Hotend wider than needed) Y:340mm(Bed 10mm too far forward) Z:385 (Z Gantry unessasairly thick) |
-|  1b  | Room to move hotend over nozzle cleaner + purge shoot + klicky probe dock + filament cutter | +40mm of free room at back, Klicky probe already added. First rounds of purge shoot and nozzle wiper to be added soon |
-|  2   | Print times that are at least 1/3 faster than the X1C while maintaining quality | Print times are about ~5% faster as is, but printer is nowhere near maxed out with current components. Quality is very close to X1C and with furthur tuning should be equal/better than it |
-| 3   | ABSOLUTE RELIABILITY (perfect first layers, minimal print artificats, rare failed prints, etc. | With all tuning so far, reliability is already easily over 95% even with complicated/demanding first layers, nozzle wiper and wire harness are well incorporated and with plans to improve furthur |
+|  1a  | Build Volume of 350mm x 350mm x 400mm (xyz) | X:300mm(Hotend wider than needed) Y:350mm Z:380 (Z Gantry unessasairly thick) |
+|  1b  | Room to move hotend over nozzle cleaner + purge shoot + klicky probe dock + filament cutter | +40mm of free room at back, Klicky probe already added. Purge shoot and nozzle wiper added and working well |
+|  2   | Print times that are at least 1/3 faster than the X1C while maintaining quality | Print times are about ~5% faster as is, but printer is nowhere near maxed out with current components. Quality is same as X1C and with furthur tuning should be even better than it |
+| 3   | ABSOLUTE RELIABILITY (perfect first layers, minimal print artificats, rare failed prints, etc. | With all tuning so far, reliability is already easily over 98% even with complicated/demanding first layers, nozzle wiper and wire harness are well incorporated and with plans to improve furthur. Keeping this reliability will be tough once MMU added. |
 | 4   | Absolute Safety | Thermal runaway and all Software safety features enabled, Thermal fuses, signifigantly overpowered SSR and 24v Power supply, components with heat sinks where needed. To be added though: Smoke detector, carbon filter in enclosure, etc. 
-| 5   | Quiet enough to be in the same room and work around | System is suprisingly quiet even at +8K and 350mm speeds, enclosure has further reduced noise, vibration feet added. Concrete slab is the next addition to be tested)
+| 5   | Quiet enough to be in the same room and work around | System is suprisingly quiet even at +8K and 300mm speeds, enclosure has further reduced noise, vibration feet added. Concrete slab is the next addition to be tested)
 | 6   | Built-in side panel MMU | Already have most/all components and preliminary CAD started for this (rewind issue not sorted yet) |
 
 Future plans:
@@ -105,7 +105,7 @@ Current reliability/setup issues:
 -Camera to view prints (Camera works, but new Pi power supply is needed)     
 -Nozzle Cleaner and purge fully incorporated but will likely need to be improved when the MMU is added.
 
-Quality of life upgrades to be done: 
+Quality of life upgrades to be done:  
 -Print Bed cable carrier needs to be fixed at the termination point.  
 -Rear acrylic panel still needs to be added  
 -Add lighting to enclosure  
