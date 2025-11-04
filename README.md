@@ -15,7 +15,7 @@ With these printers I find that printing any large scale parts is impossible, ma
 Additionally, the ender 3 build volume is good, but even this has been too small on several occasions (and unenclosed, when I wished to print ABS, or other enclosure based materials).
 
 Design Goals:
- - Build Volume of 350mm x 350mm x 410mm, with room to move hotend over nozzle cleaner + purge shoot + klicky probe dock + filament cutter (similar to Bambu labs) and potentially other future features (tool changer area?).
+ - Build Volume of 350mm x 350mm x 400mm, with room to move hotend over nozzle cleaner + purge shoot + klicky probe dock + filament cutter (similar to Bambu labs) and potentially other future features (tool changer area?).
  - Print times that are at least 1/3 faster than the X1C (at the same settings [walls, infill, etc.]) whithout sacrificing print quality (X1C benchy 38m3s, RXL 1/3 faster goal: 25m22s)
  - ABSOLUTE RELIABILITY (perfect first layers, minimal print artificats, rare failed prints, etc. (at least on par or better than the X1C).
  - Absolute Safety (more in summary)
@@ -48,11 +48,13 @@ Motion system update.
 
 
 Electronics system update.  
-Left side is the first working version (from March), right side is the most up-to-date verison (September)
+Left side is the most up=to-date version (from October 2025), right side is the first working version from (March 2025)
+
 
 <p float="left">
+  <img src="https://github.com/user-attachments/assets/4b7f0c78-dda0-4dfa-bb81-4441aa1456a5" width="295" /> 
   <img src="https://github.com/user-attachments/assets/15b6d163-4cd9-41d7-9158-ccc922d62c64" width="350" />
-  <img src="https://github.com/user-attachments/assets/de4a19c2-4d56-4a71-869b-d5798b26016c" width="295" /> 
+
 </p>
 --------------------------------------------------------------------------------------------------------------------------------------
 SPEED TRIALS: 
@@ -91,18 +93,17 @@ Summary Comparison to design  Goals:
 |  1a  | Build Volume of 350mm x 350mm x 400mm (xyz) | X:300mm(Hotend wider than needed) Y:350mm Z:380 (Z Gantry unessasairly thick) |
 |  1b  | Room to move hotend over nozzle cleaner + purge shoot + klicky probe dock + filament cutter | +40mm of free room at back, Klicky probe already added. Purge shoot and nozzle wiper added and working well |
 |  2   | Print times that are at least 1/3 faster than the X1C while maintaining quality | Print times are about ~5% faster as is, but printer is nowhere near maxed out with current components. Quality is same as X1C and with furthur tuning should be even better than it |
-| 3   | ABSOLUTE RELIABILITY (perfect first layers, minimal print artificats, rare failed prints, etc. | With all tuning so far, reliability is already easily over 98% even with complicated/demanding first layers, nozzle wiper and wire harness are well incorporated and with plans to improve furthur. Keeping this reliability will be tough once MMU added. |
-| 4   | Absolute Safety | Thermal runaway and all Software safety features enabled, Thermal fuses, signifigantly overpowered SSR and 24v Power supply, components with heat sinks where needed. To be added though: Smoke detector, carbon filter in enclosure, etc. 
+| 3   | ABSOLUTE RELIABILITY (perfect first layers, minimal print artificats, rare failed prints, etc. | With all tuning so far, reliability is already easily over 99% (Failures only every few weeks which just require print bed cleaning). Even with complicated/demanding first layers, nozzle wiper is well incorporated and with plans to improve furthur. Keeping this reliability will be tough once MMU added. |
+| 4   | Absolute Safety | Thermal runaway and all Software safety features enabled, Thermal fuses, signifigantly overpowered SSR and 24v Power supply, components with heat sinks where needed. Hepa/Activated charcol filter placed in same room. To be added though: Smoke detector, carbon filter in enclosure, etc. 
 | 5   | Quiet enough to be in the same room and work around | System is suprisingly quiet even at +8K and 300mm speeds, enclosure has further reduced noise, vibration feet added. Concrete slab is the next addition to be tested)
-| 6   | Built-in side panel MMU | Already have most/all components and preliminary CAD started for this (rewind issue not sorted yet) |
+| 6   | Built-in side panel MMU | Printed and incorporated, wiring and code updates still need to be done (rewind issue also not fully sorted yet) |
 
 Future plans:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Current reliability/setup issues:    
--Hotend wires occasionally (>1%) interfere with belts and Klicky probe (Mostly solved but, refined wire harness still needed though)  
--Screen to help monitor printer and edit/cancel prints on the fly (screen does not turn on, furthur testing needed)     
--Camera to view prints (Camera works, but new Pi power supply is needed)     
+-Hotend wires need a proper wire harness, as they are subject to wear in current setup  
+-Camera to view prints (Camera only sometimes works?)     
 -Nozzle Cleaner and purge fully incorporated but will likely need to be improved when the MMU is added.
 
 Quality of life upgrades to be done:  
