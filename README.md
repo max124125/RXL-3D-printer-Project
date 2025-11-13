@@ -68,7 +68,7 @@ Tuning is done to increase quality and speed, but maintain other key attributes 
 Printer heating and prepare time also will not be included. However, It is such for each printer when printing PETG Hf from bambu labs:  
 Ender 3: [Heat time 3:50] [Prep time 20s].  
 X1C: [Heat time 1:30] [Prep time 5m46s].  
-RXL: [Heat time: 2:10] [Prep time 6m30s].  
+RXL: [Heat time: 4:30] [Prep time 3m30s].  
 
 |  Printer & Trial   | top Accel [mm/s2] | top speed [mm/s] | Motor Current [a] |  Benchy Time  |  Layer height   |    Rating    |     Notes    |
 |       :-----:        |       :---:      |       :---:      |       :---:        |     :---:     |    :---:    |    :---:    |     :---:    |    
