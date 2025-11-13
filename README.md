@@ -48,13 +48,11 @@ Motion system update.
 
 
 Electronics system update.  
-Left side is the most up=to-date version (from October 2025), right side is the first working version from (March 2025)
+Left side is the most up=to-date version (from October 2025), the addition of the mmu has created alot of loose wiring, and more managment is being done
 
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/4b7f0c78-dda0-4dfa-bb81-4441aa1456a5" width="295" /> 
-  <img src="https://github.com/user-attachments/assets/15b6d163-4cd9-41d7-9158-ccc922d62c64" width="350" />
-
 </p>
 --------------------------------------------------------------------------------------------------------------------------------------
 SPEED TRIALS: 
