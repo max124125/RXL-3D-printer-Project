@@ -100,8 +100,7 @@ Future plans:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Current reliability/setup issues:    
--Hotend wires need a proper wire harness, as they are subject to wear in current setup  
--Camera to view prints (Camera only sometimes works?)     
+-Hotend wires need a proper wire harness, as they are subject to wear in current setup       
 -Nozzle Cleaner and purge fully incorporated but will likely need to be improved when the MMU is added.
 
 Quality of life upgrades to be done:  
